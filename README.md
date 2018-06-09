@@ -1,2 +1,2 @@
-# PYTHON JSON TOOLS
-Just a set of JSON tools
+# DEPRECATED
+Moved to: https://gitlab.com/sergiopr89/jsontools
